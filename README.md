@@ -18,7 +18,7 @@ I like thinking deeply about stuff - and solving real-world problems in that pro
 - **Dev Tools**: Git, Docker, Vim/Neovim, Tmux, VS Code, Jupyter
 - **Other**: LaTeX, Typst, 
 
-[comment]: <> (## 📂 Projects
+<!-- ## 📂 Projects
 
 Here are a few highlights:
 
@@ -34,7 +34,7 @@ Here are a few highlights:
 - ✉️ [Email me](mailto:your.email@example.com)
 - 🌐 [yourwebsite.dev](https://yourwebsite.dev) *(if you have one)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)
-)
+-->
 ## ⚡ Fun Fact
 
 When I’m not coding, you’ll find me running, cycling in the mountains 🚴‍♂️, or experimenting with healthy meals 🍲.
