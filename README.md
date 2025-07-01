@@ -9,7 +9,7 @@ I also try to do all things **soli deo gloria** - solely to the glory of my lord
 - 🎓 Studying **Computer Science** (B.Sc.)
   -   University: [Cooperative State University Stuttgart (DHBW Stuttgart)](https://www.dhbw-stuttgart.de)
   -   Company: [Bosch](https://www.bosch.com)
-- 🤖 Current focus: **Natural language processing**, **Data Science**, **Graph databases**, and **Autonomous Systems**
+- 🤖 Current focus: **Natural language processing**, **LLM Agents (langchain)** and **Graph databases (neo4j)**
 - 🔬 Interested in mathematics and theoretical computer science
 
 ## 🛠️ Skills
@@ -17,7 +17,7 @@ I also try to do all things **soli deo gloria** - solely to the glory of my lord
 - **Languages**: Python, TypeScript, Bash, Cypher, Swift, Java, C, SQL
 - **Data**: Pandas, NumPy, Matplotlib, seaborn
 - **Dev Tools**: Git, Docker, Vim/Neovim, Tmux, VS Code, Jupyter
-- **Other**: LaTeX, Typst
+- **Other**: LaTeX, Typst (which is just better than LaTeX in every possible way)
 
 <!-- ## 📂 Projects
 
@@ -39,3 +39,7 @@ Here are a few highlights:
 ## ⚡ Fun Fact
 
 When I’m not coding, you’ll find me running, cycling or hiking in the mountains ⛰️.
+
+---
+
+ありがとうございます!
