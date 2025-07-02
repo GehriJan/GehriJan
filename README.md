@@ -9,7 +9,7 @@ I also try to do all things **soli deo gloria** - solely to the glory of my lord
 - 🎓 Studying **Computer Science** (B.Sc.)
   -   University: [Cooperative State University Stuttgart (DHBW Stuttgart)](https://www.dhbw-stuttgart.de)
   -   Company: [Bosch](https://www.bosch.com)
-- 🤖 Current focus: **Natural language processing**, **LLM Agents (langchain)** and **Graph databases (neo4j)**
+- 🤖 Current focus: **Natural language processing** and **Graph databases (neo4j)**
 - 🔬 Interested in mathematics and theoretical computer science
 
 ## 🛠️ Skills
